@@ -1,0 +1,9 @@
+Django==2.1.4
+django-debug-toolbar==1.11
+python-decouple==3.1
+pytz==2018.7
+sqlparse==0.2.4
+black==19.10b0
+flake8==3.7.9
+isort[requirements]==4.3.21
+hooks4git==0.3.205

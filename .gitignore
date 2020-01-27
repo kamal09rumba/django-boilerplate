@@ -104,6 +104,9 @@ venv.bak/
 .mypy_cache/
 
 # ignore
-# .env
+.env
 static_in_env
 demo/__pycache__
+
+# IDE
+.idea/ 

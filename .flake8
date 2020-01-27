@@ -1,0 +1,4 @@
+[flake8]
+exclude = .git,__pycache__,venv,**/migrations/,**/uwsgi/,manage.py,**/tests.py
+max-line-length = 119
+ignore = E231
